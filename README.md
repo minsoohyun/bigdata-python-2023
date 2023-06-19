@@ -4,7 +4,6 @@
 ## 1일차
 - 파이썬 기본학습
     - Visual Studio Code Python 확장설치
-    - 
 
 ## 2일차
 - 
